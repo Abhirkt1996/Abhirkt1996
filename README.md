@@ -1,19 +1,40 @@
-# Hi there, I'm Abhishek Kumar 👋
+<h1 align="center">Hii there, I'm Abhishek Kumar! 👋</h1>
+<h3 align="center">A passionate Full Stack Web Developer from India.</h3>
 
-## Full Stack Web Developer | Passionate about Building Web Applications
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-### About Me
-- 🌱 I’m currently learning and exploring **Full Stack Web Development**.
-- 💻 Proficient in **HTML, CSS, JavaScript, React, Next.js, jQuery, Node.js, Express, MySQL, MongoDB**.
-- 🚀 Always eager to learn new technologies and improve my skills.
-- 📫 How to reach me: [abhiabhishekrkt1996@gmail.com](mailto:abhiabhishekrkt1996@gmail.com)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Abhirkt1996&label=Profile%20views&color=0e75b6&style=flat" alt="Abhirkt1996" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Abhirkt1996" alt="Abhirkt1996" /></a> </p>
+
+- 🔭 I’m currently working on **Myself.**
+
+- 🌱 I’m currently learning **Full Stack Web Development.**
+
+- 👯 I’m looking to collaborate on **Open Source projects.**
+
+- 🤝 I’m looking for help with **anything I am currently learning.**
+
+- 💬 Ask me about **anything, I am happy to help! 😉**
+
+- 📫 How to reach me: **[abhiabhishekrkt1996@gmail.com](mailto:abhiabhishekrkt1996@gmail.com)**
+
 - 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1qAiS9fEl6Eya4Z29_UpHI9DiNq1qtdGy/view?usp=share_link)
 
-### Skills
-- **Frontend**: HTML, CSS, JavaScript, React, Bootstrap
-- **Backend**: Node.js, Express
-- **Database**: MongoDB, MySQL
-- **Tools**: Git, GitHub, VS Code, Postman
+- ⚡ Fun fact: **I always try to learn something new and then sleep till it stores in the brain 😎**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/Abhirkt1996" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Abhirkt1996" height="30" width="40" />
+  </a>
+  
+  <!-- CodeSandbox -->
+  <a href="https://codesandbox.com/your-codesandbox-username" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="your-codesandbox-username" height="30" width="40" />
+  </a>
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -64,19 +85,6 @@
   </a>
 </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <!-- LinkedIn -->
-  <a href="https://linkedin.com/in/Abhirkt1996" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Abhirkt1996" height="30" width="40" />
-  </a>
-  
-  <!-- X (Twitter) -->
-  <a href="https://x.com/Abhishe41953898?t=WbabHl3d4cV3DN39pRGwJw&s=09" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Abhishe41953898" height="30" width="40" />
-  </a>
-</p>
-
 <p>
   <!-- Top Languages Card -->
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abhirkt1996&show_icons=true&locale=en&layout=compact&theme=dark" alt="Abhirkt1996" />
@@ -91,8 +99,6 @@
   <!-- GitHub Streak Stats Card -->
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhirkt1996&theme=merko" alt="Abhirkt1996" />
 </p>
-
-⚡ Fun fact: **I always try to learn something new and then sleep till it stores in the brain 😎**
 
 ---
 
