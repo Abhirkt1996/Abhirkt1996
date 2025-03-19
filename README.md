@@ -30,9 +30,10 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Abhirkt1996" height="30" width="40" />
   </a>
   
-  <!-- CodeSandbox -->
-  <a href="https://codesandbox.com/your-codesandbox-username" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="your-codesandbox-username" height="30" width="40" />
+   
+  <!-- X (Twitter) -->
+<a href="https://x.com/Abhishe41953898?t=WbabHl3d4cV3DN39pRGwJw&s=09" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="your-twitter-username" height="30" width="40" />
   </a>
 </p>
 
