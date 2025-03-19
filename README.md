@@ -40,9 +40,21 @@ Here are some of the projects I've worked on:
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="your-twitter-username" height="30" width="40" />
   </a>
 </p>
-### Fun Fact
-- ⚡ Fun fact: I love to code and solve problems, but I also enjoy playing video games and listening to music!
 
+<p>
+  <!-- Top Languages Card -->
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abhirkt1996&show_icons=true&locale=en&layout=compact&theme=dark" alt="Abhirkt1996" />
+</p>
+
+<p>
+  <!-- GitHub Stats Card -->
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Abhirkt1996&show_icons=true&locale=en&theme=radical" alt="Abhirkt1996" />
+</p>
+
+<p>
+  <!-- GitHub Streak Stats Card -->
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhirkt1996&theme=merko" alt="Abhirkt1996" />
+</p>
 ---
 
 ⭐️ From Abhishek Kumar(https://github.com/Abhirkt1996)
