@@ -52,6 +52,8 @@ Here are some of the projects I've worked on:
   <!-- GitHub Streak Stats Card -->
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhirkt1996&theme=merko" alt="Abhirkt1996" />
 </p>
+
+ ⚡ Fun fact **I Always try to learn something new and then sleep till it store in the brain 😎**
 ---
 
 ⭐️ From Abhishek Kumar(https://github.com/Abhirkt1996)
