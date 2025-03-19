@@ -1,12 +1,12 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Abhishek Kumar 👋
 
 ## Full Stack Web Developer | Passionate about Building Web Applications
 
 ### About Me
 - 🌱 I’m currently learning and exploring **Full Stack Web Development**.
-- 💻 Proficient in **HTML, CSS, JavaScript, React, Node.js, Express, MongoDB**.
+- 💻 Proficient in **HTML, CSS, JavaScript, React, Nextjs, Jquerry, Node.js, Express, MySql, MongoDB**.
 - 🚀 Always eager to learn new technologies and improve my skills.
-- 📫 How to reach me: [Your Email](mailto:youremail@example.com)
+- 📫 How to reach me: abhiabhishekrkt1996@gmail.com(mailto:abhiabhishekrkt1996@gmail.com)
 
 ### Skills
 - **Frontend**: HTML, CSS, JavaScript, React, Bootstrap
