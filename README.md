@@ -19,7 +19,7 @@
 
 - 📫 How to reach me: **[abhiabhishekrkt1996@gmail.com](mailto:abhiabhishekrkt1996@gmail.com)**
 
-- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1qAiS9fEl6Eya4Z29_UpHI9DiNq1qtdGy/view?usp=share_link)
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/12sgeJlFoOFewUEnBVZvHvf8m7ZOFsgr5/view?usp=drivesdk)
 
 - ⚡ Fun fact: **I always try to learn something new and then sleep till it stores in the brain 😎**
 
